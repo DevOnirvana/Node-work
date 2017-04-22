@@ -1,0 +1,30 @@
+<div class= "well">
+  <div class= "well" style="text-align:center">
+<h3 style="color:red">Enter your data below</h3>
+  </div>
+  <div class="container">
+      <form action="/send1" method="post">
+          <div class="form-group">
+              <label for="id1">Child for uid1</label>
+                <input type="text" class="form-control" id="id1" name="id1" required/>
+          </div>
+      <button type="submit" class="btn btn-primary">Add</button>
+      </form>
+</div>
+<div class="container">
+  <form action="/send2" method="post">
+      <div class="form-group">
+        <label for="id">Child for uid2</label>
+          <input type="text" class="form-control" id="id2" name="id2" required/>
+      </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+  </form>
+</div>
+<div class= "well" style="text-align:center">
+  <a href="/cA1">Last child of uid1 added</a></br>
+  <a href="/cA2">Last child of uid2 added</a></br>
+    <div class= "well" style="text-align:center">
+        <b>{{statement}}</b> : {{value}}</br>
+    </div>
+</div>
+</div>

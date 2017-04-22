@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hollywood-basement",
+  "private_key_id": "d7c80f02a4208452f9f56bb63785e63072178670",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5w5Sjh0t8kS4P\niz0vOUpbd9iVrwVs/ViDu92xlmDGsFKdU7jcSGPcTv4FZZ7JaI95/Rmclnt4TMy5\nzcrqmUVRCkDxFTEjfPDxiA3Zv0X0unAd7q8VxhAu3ZOnYGSzIATGsw84NIvycuW3\nDcWBLU0AEe0lr5UFiXELolpVscyzyCp6JRmbeuXe+hRsPZhDAul1XdnOVeIipzg+\nzJve469RxFoNg/y5Ay4rI3saIWLEsp/1tjFb1qSSca8JRFLYMUcFYJvLwD9XmhKH\n1L6TuuAFU5oQ/qCuvZOasrL3R2IqSFpa7lS6cvpyFvt7nH2K3SDmSpNrLgwON2pf\nRa+Qoox1AgMBAAECggEBAJfCNBg0W3L0mBCSy/VcdGatTf9a8K/NeRaFz+NY2s73\nFUb6MrejXBGLZvK5xjL8fNpH7ziBp3TsKQRSH0fw1zQRkGRjz7USSTTI1afiHyCD\nfzy01cyP9oCS/CFtGldL/RrnBbQBGaOEQi59zbBudc1s17RF8RSI6BV9GReRHY5w\nvqi882uEkgPLTBqbK+ayCr548a7usnVCBfZxyYi7a+2itrEowiVfPkiYYM/evbnN\n1vnRoTyluPS2ItHW164xPUCagXC2HBgvKsO/jR3BZx2V3IqFE/TbqGHLv7iYwQoH\ndx28NJAY7AZkK/RWkj6LvZn32VqDpRiqZ2smtHRwb4ECgYEA7mc4gzIlha/k9/fW\nLq9lkMATTUBYy/iZC1eCVUQYEIeDbTvXLmDs8r3F/+UAyD0s+ZfCS2PxeiMxbA2u\nUnpXQ2MgXfyq1vzbXLEwpRsvKKKfK1BmpkbXD3EDdxvkQeqMhwnrODmlgoPs6yCM\ntho3f4M0O5S2Db369aj7r/YrhSkCgYEAx3m1Y7TclqIx5Wa7fzfbxDtAGwYiuDy9\nMzteZXY43TskHrMw5In/rzJs8ohibWPCPKjsXgK5tD57/nlUqP6ektbxpLW+dR6d\n4E2XzCOAAdQPLL8/Qqxfe0gOSD+4Jt9RU7jPxDdynrOoQ6/pP0cJ6CAjxdHHMhEL\n7uF7+e1VSm0CgYAKDBubm99s9O7HbJCAQzAam520ocOcRQveKH/7q/T/rVZioiT9\ndWRHDqxrjnEr/zgIBNdRahLhPN52WVVBcJqA4oqYq29fxCRSkb0lGDIymjfvEWJi\nG5YwtmiY+nnyNTpa7pYVNoi9KWYwupxziENSgmsPH8NUbO9Iryh8T/mhkQKBgQCR\nZRQixdyXa0fFNvlphDSKtslGKVW7RoJ9ykNG30IZdxcfzWrQ2gllEPM6YNClfTZB\n8rq+12u2hmjollVwDI9W5pchgFt/kL5wlP4VDLcsHf6llgytM2kxOdc3MEKxCsuD\no8zE78l7Beaa16jCt6vv5yVL9lkkFCrHhtFP3X7yjQKBgCnb3KvIZ8eBe1Mm4T8S\n616thPXUuuuP5u9XvhdBRqJd+SPMM4pXdh37ExRxic/OYSwJrvJYjFSUZYeliYdQ\nNrf7h+CHNEXVWtA/9fER+wEx78kS28AfnzdGyxw/2i4T8D/fZ7mEOMK7sDhpw+6A\noq/m/p6/QMSEcz+am99CBCPK\n-----END PRIVATE KEY-----\n",
+  "client_email": "anirban95@hollywood-basement.iam.gserviceaccount.com",
+  "client_id": "118425321735646469921",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anirban95%40hollywood-basement.iam.gserviceaccount.com"
+}
